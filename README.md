@@ -27,4 +27,4 @@ Important alpha notes
 
 Important credits
 ----------------------------
-The MTK News branding belongs to @MTKNews on twitter , all the content in the app belongs to the MTK News team and the writers of the articles
+The MTK News branding belongs to @MTKNews on twitter , all the posts in the app belong to the MTK News team and the writers of the articles
