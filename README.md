@@ -24,3 +24,7 @@ Important alpha notes
 3- The builds expiring and having to upgrade: Test builds expire after a period of time and they become unusable, so please upgrade to the latest builds once they come out.
 
 4- Compatibility: Although MTK News for Android should work on any Android device higher than Android 8 , It’s still possible that you’ll encounter compatibility issues.
+
+Important credits
+----------------------------
+The MTK News branding belongs to @MTKNews on twitter , all the content in the app belongs to the MTK News team and the writers of the articles
