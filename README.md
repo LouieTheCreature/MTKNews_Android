@@ -3,9 +3,9 @@
 
 Latest build info
 ---------------------------------
-###### Current Stage : Alpha 1
-###### Current Build : 13
-###### Current Version : 1.0_Build13
+###### Current Stage : Alpha 2
+###### Current Build : 15
+###### Current Version : 1.0_Build15
 
 "Backend"
 --------------------------
