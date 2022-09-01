@@ -6,9 +6,9 @@ https://play.google.com/store/apps/details?id=louiethecreature.projectBlackWhite
 
 Latest build info
 ---------------------------------
-###### Current Stage : Alpha 3
-###### Current Build : 18
-###### Current Version : 1.0_Build18
+###### Current Stage : Alpha 3.1
+###### Current Build : 20
+###### Current Version : 1.0_Build20
 
 "Backend"
 --------------------------
