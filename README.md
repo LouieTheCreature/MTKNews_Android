@@ -1,14 +1,14 @@
 # MTK News for Android
-![Screenshot 2022-08-11 172916](https://user-images.githubusercontent.com/79132875/184538057-fe5552ff-5bc4-4abe-9fda-cee3fade8e03.jpg)
+![IMG_5841](https://user-images.githubusercontent.com/79132875/188633046-0c0a54f6-bc7c-4b3c-88c3-d2bc824f2ad7.png)
 
-Update : MTK News for Android (Alpha) is now on the Play Store!
+Update : MTK News for Android (Beta) is now on the Play Store!
 https://play.google.com/store/apps/details?id=louiethecreature.projectBlackWhite
 
 Latest build info
 ---------------------------------
-###### Current Stage : Alpha 3.1
-###### Current Build : 20
-###### Current Version : 1.0_Build20
+###### Current Stage : Beta 1.1
+###### Current Build : 25
+###### Current Version : 1.0_build25
 
 "Backend"
 --------------------------
