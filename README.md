@@ -6,9 +6,9 @@ https://play.google.com/store/apps/details?id=louiethecreature.projectBlackWhite
 
 Latest build info
 ---------------------------------
-###### Current Stage : Beta 3
-###### Current Build : 32
-###### Current Version : 1.0_build32
+###### Current Stage : Release Candidate 2
+###### Current Build : 37
+###### Current Version : 1.0_RC2
 
 "Backend"
 --------------------------
@@ -16,11 +16,7 @@ github.com/louiethecreature/projectblackwhite is the repo where the "backend" is
 
 Privacy
 --------------------------
-The MTK News app doesn't collect any data, the connection to the "backend" repo is one-way and the app can't send anything to it, all the settings in the app are stored on the device and not on the cloud.
-
-Important note
-----------------------------
-Compatibility: This app doesn't work well on Andorid 8 and 8.1
+The MTK News app doesn't collect any data, the connection to the "backend" repo is one-way and the app can't send anything to it, all the settings in the app are stored on the device and not on the 
 
 Important credits
 ----------------------------
